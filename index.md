@@ -7,7 +7,7 @@ title: 学习资源导航
 
 ### 🔗 常用工具 & 学习网址
 
-<span style="color: red; font-size: 1.25em;">📘 <a href="https://www.pdx1.cc/">网站1</a> — 主1</span>
+<span style="color: red; font-size: 1.25em;">📘 <a href="https://www.pdx1.cc/" target="_blank">网站1</a> — 主1</span>
 <br><br>
 <span style="color: red; font-size: 1.25em;">🧠 <a href="https://www.pdx2.cc/">网站2</a> — 主2</span>
 <br><br>
