@@ -3,7 +3,7 @@ layout: page
 title: 学习资源导航
 ---
 
-### 🔗 常用工具 & 学习网址
+### 🔗 常用工具 & 学习网址（访问时间大概6到7秒属于正常现象）
 
 <span style="color: red; font-size: 1.25em;">📘 
   <a href="#" id="random-jump1">网站1</a> — 主1
