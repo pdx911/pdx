@@ -60,8 +60,5 @@ title: 学习资源导航
   }
 </script>
 <!-- 页面底部商务合作信息 -->
-<div style="margin-top:40px; padding:16px; border-top:1px solid #eee; font-size:1.1em; color:#444;">
-  <b>商务合作：</b>
-  <span style="color:#0088cc;">TG：@nbn52524</span>
-  <span style="margin-left:16px;">邮箱：xxxx</span>
-</div>
+---
+**商务合作：** TG：@nbn52524  邮箱：xxxx
