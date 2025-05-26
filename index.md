@@ -25,7 +25,8 @@ title: 学习资源导航
   <a href="https://developer.mozilla.org/">网站1</a> — 前端开发权威资料
 </span>
 
-欢迎点击上面链接开始探索！
+欢迎点击上面链接开始探索！---
+**商务合作：** TG：@nbn52524  邮箱：xxxx
 
 <script>
   // 网站1的子域名
