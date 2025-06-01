@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 学习资源导航
+title: 免费福利资源导航
 ---
 <h1>合集导航入口</h1>
 <p>
