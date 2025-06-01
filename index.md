@@ -2,6 +2,10 @@
 layout: page
 title: 学习资源导航
 ---
+<h1>91合集导航入口</h1>
+<p>
+欢迎访问 <strong>PDX导航站</strong>，我们收录了全网最全的 <strong>91合集</strong> 分类，包括 <strong>自拍视频</strong>、<strong>国产原创</strong>、<strong>制服诱惑</strong>、<strong>网红直播</strong> 等内容。所有导航地址永久免费更新，实时同步最新资源，适合喜欢高质量成人内容的用户收藏使用。
+</p>
 
 ### 🔗 常用工具 & 学习网址（访问时间大概6到7秒属于正常现象）
 
