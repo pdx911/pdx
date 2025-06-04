@@ -26,7 +26,7 @@ title: 免费福利资源色导航
 </span>
 <br><br>
 <span style="color: red; font-size: 1.25em;">📚 
-  <a href="https://developer.mozilla.org/">网站1</a> — 前端开发权威资料
+  <a href="https://rentry.org/pdxpdx">地址发布页2</a> — 请收藏防走丢
 </span>
 
 欢迎点击上面链接开始探索！---
