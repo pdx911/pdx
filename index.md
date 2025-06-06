@@ -30,7 +30,7 @@ title: 免费福利资源色导航
 </span>
 
 欢迎点击上面链接开始探索！---
-**商务合作：** TG：@nbn52524  邮箱：xxxx
+**商务合作：** TG：  邮箱：screwdomel@gmail.com
 
 <script>
   // 网站1的子域名
