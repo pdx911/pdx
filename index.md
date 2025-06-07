@@ -66,4 +66,4 @@ title: 免费福利资源色导航
 </script>
 <!-- 页面底部商务合作信息 -->
 ---
-**商务合作：** TG：@nbn52524  邮箱：xxxx
+**商务合作：** TG：  邮箱：screwdomel@gmail.com
