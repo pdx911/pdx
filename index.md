@@ -60,7 +60,7 @@ var sites4 = ["https://a6.pdx5.cc/","https://b5.pdx5.cc/","https://x5pdx5.cc/"];
 var sites5 = ["https://x5.pdx6.cc/","https://b5.pdx6.cc/","https://a5.pdx6.cc/"];
 var sites6 = ["https://x5.pdx7.cc/","https://b5.pdx7.cc/","https://a5.pdx7.cc/"];
 var sites7 = ["https://x5.pdx8.cc/","https://b5.pdx8.cc/","https://a5.pdx8.cc/"];
-var sites8 = ["https://x5.pdx9.cc/"];
+var sites8 = ["https://x5.pdx9.cc/","https://b5.pdx9.cc/","https://a5.pdx9.cc/"];
 document.getElementById('random-jump1').onclick = function(e) {e.preventDefault();window.location.href = sites1[Math.floor(Math.random() * sites1.length)];}
 document.getElementById('random-jump2').onclick = function(e) {e.preventDefault();window.location.href = sites2[Math.floor(Math.random() * sites2.length)];}
 document.getElementById('random-jump3').onclick = function(e) {e.preventDefault();window.location.href = sites3[Math.floor(Math.random() * sites3.length)];}
