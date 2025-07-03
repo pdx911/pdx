@@ -51,7 +51,7 @@ title: 免费福利资源色导航
     </span>
     <br><br>
     <span style="color: red; font-size: 1.5em; margin: 10px;">
-        🅢 <a href="#" id="random-jump9" style="text-decoration: none; color: #fff; font-size: 1.25em; background-color: #ff6347; padding: 10px 20px; border-radius: 8px;">网站9</a> — 主9
+        🅢 <a href="#" id="random-jump9" style="text-decoration: none; color: #fff; font-size: 1.25em; background-color: #ff6347; padding: 10px 20px; border-radius: 8px;">空的</a> — 空的
     </span>
     <br><br>
     <span style="color: red; font-size: 1.5em; margin: 10px;">
